@@ -3,3 +3,5 @@ datasets/raw/
 datasets/data.csv
 datasets/test.csv
 datasets/train.csv
+datasets/test_denoised.csv
+datasets/train_denoised.csv
