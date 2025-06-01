@@ -3,10 +3,10 @@ import os
 from scipy.signal import savgol_filter
 
 # ---------- 配置 ----------
-input_train_path = 'datasets/train.csv'
-input_test_path = 'datasets/test.csv'
-output_train_path = 'datasets/train_denoised.csv'
-output_test_path = 'datasets/test_denoised.csv'
+input_train_path = 'datasets/processed/2024-05_processed.csv'
+input_test_path = 'datasets/processed/2024-06_processed.csv'
+output_train_path = 'datasets/denoised/2024-05_denoised.csv'
+output_test_path = 'datasets/denoised/2024-06_denoised.csv'
 
 # Savitzky-Golay 滤波参数
 window_length = 101  # 必须是奇数

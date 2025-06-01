@@ -1,5 +1,6 @@
 datasets/processed/
 datasets/raw/
+datasets/denoised/
 datasets/data.csv
 datasets/test.csv
 datasets/train.csv
