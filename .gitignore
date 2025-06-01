@@ -4,5 +4,7 @@ datasets/denoised/
 datasets/data.csv
 datasets/test.csv
 datasets/train.csv
+datasets/lyhtest.csv
 datasets/test_denoised.csv
 datasets/train_denoised.csv
+models/
